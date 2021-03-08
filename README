@@ -1,0 +1,12 @@
+
+Might want to check out scilearnkit Blob Detection
+    https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_blob.html
+
+Perhaps this paper would be worth reading:
+    https://arxiv.org/pdf/1109.3827.pdf
+The code for that paper is here:
+    https://sites.google.com/site/hejunzz/t-grasta
+
+Or this paper
+    http://yangliang.github.io/pdf/07089247.pdf
+
